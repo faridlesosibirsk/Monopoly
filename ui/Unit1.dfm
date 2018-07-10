@@ -24105,6 +24105,13 @@ object Form1: TForm1
       454E44AE426082}
     Proportional = True
   end
+  object Label3: TLabel
+    Left = 163
+    Top = 160
+    Width = 39
+    Height = 13
+    Caption = #1048#1075#1088#1086#1082' 1'
+  end
   object Button1: TButton
     Left = 455
     Top = 275
