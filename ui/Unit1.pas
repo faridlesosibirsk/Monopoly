@@ -55,6 +55,7 @@ type
     Image39: TImage;
     Image40: TImage;
     Image41: TImage;
+    Label3: TLabel;
     procedure FormCreate(Sender: TObject);
     procedure Button1Click(Sender: TObject);
   private
