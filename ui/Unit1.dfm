@@ -24106,11 +24106,11 @@ object Form1: TForm1
     Proportional = True
   end
   object Button1: TButton
-    Left = 463
-    Top = 267
+    Left = 455
+    Top = 275
     Width = 75
     Height = 150
-    Caption = 'Button1'
+    Caption = #1061#1086#1076
     TabOrder = 0
     OnClick = Button1Click
   end
