@@ -16,8 +16,8 @@ object Form1: TForm1
   PixelsPerInch = 96
   TextHeight = 13
   object Image1: TImage
-    Left = 104
-    Top = 144
+    Left = 96
+    Top = 151
     Width = 434
     Height = 434
     Picture.Data = {
@@ -10175,15 +10175,15 @@ object Form1: TForm1
     Proportional = True
   end
   object Label1: TLabel
-    Left = 344
-    Top = 176
+    Left = 220
+    Top = 160
     Width = 31
     Height = 13
     Caption = 'Label1'
   end
   object Label2: TLabel
-    Left = 152
-    Top = 372
+    Left = 123
+    Top = 524
     Width = 31
     Height = 13
     Caption = 'Label2'
