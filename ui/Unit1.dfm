@@ -10182,8 +10182,8 @@ object Form1: TForm1
     Caption = 'Label1'
   end
   object Label2: TLabel
-    Left = 123
-    Top = 524
+    Left = 220
+    Top = 517
     Width = 31
     Height = 13
     Caption = 'Label2'
@@ -24111,6 +24111,13 @@ object Form1: TForm1
     Width = 39
     Height = 13
     Caption = #1048#1075#1088#1086#1082' 1'
+  end
+  object Label4: TLabel
+    Left = 163
+    Top = 517
+    Width = 39
+    Height = 13
+    Caption = #1048#1075#1088#1086#1082' 2'
   end
   object Button1: TButton
     Left = 455
