@@ -24119,6 +24119,20 @@ object Form1: TForm1
     Height = 13
     Caption = #1048#1075#1088#1086#1082' 2'
   end
+  object Label5: TLabel
+    Left = 56
+    Top = 704
+    Width = 27
+    Height = 13
+    Caption = 'Name'
+  end
+  object Label6: TLabel
+    Left = 457
+    Top = 696
+    Width = 27
+    Height = 13
+    Caption = 'Score'
+  end
   object Button1: TButton
     Left = 455
     Top = 275
