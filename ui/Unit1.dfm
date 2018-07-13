@@ -24133,6 +24133,13 @@ object Form1: TForm1
     Height = 13
     Caption = 'Score'
   end
+  object Label7: TLabel
+    Left = 115
+    Top = 557
+    Width = 96
+    Height = 13
+    Caption = 'Tap dice to shake...'
+  end
   object Button1: TButton
     Left = 455
     Top = 275
